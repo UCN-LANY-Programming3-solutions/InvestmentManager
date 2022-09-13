@@ -8,7 +8,7 @@ Console.WriteLine();
 
 
 // TODO: Iterate through the objects and run either Boat or House methods
-// HINT: Use is operator and Type Casting
+// HINT: You can use the "is" operator and Type Casting
 
 int price = 0;
 string? invSummary = null;
