@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Investment Manager 3000");
+﻿using System.Collections;
+
+Console.WriteLine("Investment Manager 3000");
 Console.WriteLine();
 
 // TODO: Instantiate House and Boat objects 
